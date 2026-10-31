@@ -1,0 +1,7 @@
+gradio==5.50.0
+SQLAlchemy==2.0.55
+pydantic==2.12.3
+pandas==2.3.3
+plotly==7.1.0
+python-dotenv==1.2.4
+spaces==0.51.3
